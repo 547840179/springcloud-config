@@ -5,4 +5,4 @@ spring:
     name: cloud-config-center
 cloud:
     config:
-      info: master
+      info: 随手写的123wee
